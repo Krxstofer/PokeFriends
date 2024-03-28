@@ -2,6 +2,7 @@
 {
     public enum PokeClubCategory
     {
+        General,
         Fire,
         Water,
         Electric,
